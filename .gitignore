@@ -1,0 +1,17 @@
+# Ignorer l'environnement virtuel
+venv/
+scrapegraph_env/
+
+
+# Cache et logs
+*.pyc
+__pycache__/
+*.log
+
+# Outils IDE
+.vscode/
+.idea/
+*.swp
+
+# Ignorer les fichiers de configuration locaux
+.env
