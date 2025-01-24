@@ -8,11 +8,18 @@ Example of Search Graph
 
 # scrapegraph_env\Scripts\activate
 
-# pip install scrapegraph-ai
+# pip install scrapegraphai
+
+# playwright install
 
 # deactivate
 
+# cree le fichier requirements
 # pip freeze > requirements.txt
+
+
+# installe le fichier requirements
+# pip install -r requirements.txt
 
 
 
